@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/miracle/Zone/workspace/HPS/src/address.h
+memory
+-
+string
+-
+sys/types.h
+-
+sys/socket.h
+-
+sys/un.h
+-
+arpa/inet.h
+-
+unistd.h
+-
+iostream
+-
+vector
+-
+map
+-
+
+/home/miracle/Zone/workspace/HPS/src/uri.h
+memory
+-
+string
+-
+stdint.h
+-
+address.h
+/home/miracle/Zone/workspace/HPS/src/address.h
+
+/home/miracle/Zone/workspace/HPS/test/test_uri.cc
+../src/uri.h
+/home/miracle/Zone/workspace/HPS/src/uri.h
+iostream
+-
+

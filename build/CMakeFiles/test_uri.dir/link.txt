@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -O0 -ggdb -gdwarf-2 -g3   CMakeFiles/test_uri.dir/test/test_uri.cc.o  -o ../bin/test_uri   -L/home/miracle/Zone/workspace/HPS/lib  -Wl,-rpath,/home/miracle/Zone/workspace/HPS/lib ../lib/libHPS.so -ldl -lyaml-cpp -lpthread -lssl 

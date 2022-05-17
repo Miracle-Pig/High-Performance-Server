@@ -1,0 +1,13 @@
+logs:
+    - name: root
+      level: info
+      appenders:
+          - type: FileLogAppender
+            file: /home/miracle/Zone/workspace/HPS/bin/conf/root.txt
+          - type: StdoutLogAppender
+    - name: system
+      level: info
+      appenders:
+          - type: FileLogAppender
+            file: /home/miracle/Zone/workspace/HPS/bin/conf/system.txt
+          - type: StdoutLogAppender

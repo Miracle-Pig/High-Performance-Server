@@ -1,0 +1,12 @@
+2022-04-30 15:07:10	191521	name_1	0	[INFO]	[root]	/home/miracle/Zone/workspace/HPS/test/test_thread.cc:12	name: name_1 this.name: name_1 id: 191521 this.id: 191521
+2022-04-30 15:07:10	191522	name_3	0	[INFO]	[root]	/home/miracle/Zone/workspace/HPS/test/test_thread.cc:12	name: name_3 this.name: name_3 id: 191522 this.id: 191522
+2022-04-30 15:07:10	191523	name_5	0	[INFO]	[root]	/home/miracle/Zone/workspace/HPS/test/test_thread.cc:12	name: name_5 this.name: name_5 id: 191523 this.id: 191523
+2022-04-30 15:07:10	191524	name_7	0	[INFO]	[root]	/home/miracle/Zone/workspace/HPS/test/test_thread.cc:12	name: name_7 this.name: name_7 id: 191524 this.id: 191524
+2022-04-30 15:07:10	191525	name_9	0	[INFO]	[root]	/home/miracle/Zone/workspace/HPS/test/test_thread.cc:12	name: name_9 this.name: name_9 id: 191525 this.id: 191525
+2022-04-30 15:07:10	191526	name_11	0	[INFO]	[root]	/home/miracle/Zone/workspace/HPS/test/test_thread.cc:12	name: name_11 this.name: name_11 id: 191526 this.id: 191526
+2022-04-30 15:07:10	191527	name_13	0	[INFO]	[root]	/home/miracle/Zone/workspace/HPS/test/test_thread.cc:12	name: name_13 this.name: name_13 id: 191527 this.id: 191527
+2022-04-30 15:07:10	191528	name_15	0	[INFO]	[root]	/home/miracle/Zone/workspace/HPS/test/test_thread.cc:12	name: name_15 this.name: name_15 id: 191528 this.id: 191528
+2022-04-30 15:07:10	191529	name_17	0	[INFO]	[root]	/home/miracle/Zone/workspace/HPS/test/test_thread.cc:12	name: name_17 this.name: name_17 id: 191529 this.id: 191529
+2022-04-30 15:07:10	191530	name_19	0	[INFO]	[root]	/home/miracle/Zone/workspace/HPS/test/test_thread.cc:12	name: name_19 this.name: name_19 id: 191530 this.id: 191530
+2022-04-30 15:07:10	191520	UNKNOW	0	[INFO]	[root]	/home/miracle/Zone/workspace/HPS/test/test_thread.cc:63	thread test end
+2022-04-30 15:07:10	191520	UNKNOW	0	[INFO]	[root]	/home/miracle/Zone/workspace/HPS/test/test_thread.cc:64	count=630981

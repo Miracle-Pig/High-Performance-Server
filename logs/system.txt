@@ -1,0 +1,4 @@
+2022-04-27 16:45:44	0		0	[INFO]	[system]	/home/miracle/Zone/workspace/HPS/test/test_config.cc:236	hello system
+
+2022-04-27 16:45:44 - hello system
+
